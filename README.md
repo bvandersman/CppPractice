@@ -1,2 +1,2 @@
-# CppPratice
+# CppPractice
 Repository for practicing C++.
